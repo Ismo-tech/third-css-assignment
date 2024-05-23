@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: "Poppins", sans-serif;;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: auto;
+    padding: 0px;
+    margin: 0%;
+    background-color: white;
+}
+.flexone{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.flextwo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.white{
+    color: white;
+}
+#overallWrapper{
+    width: 100%;
+    height: auto;
+    padding: 0px;
+    margin: 0%;
+    background-color: ;
+}
+#firstWrapper{
+    width: 100%;
+    height: auto;
+    background-color: grey;
+    margin: 0%;
+    padding: 0px;
+    padding: 30px 7%;
+}
+#headerDiv{
+    width: 100%;
+    background-color: black;
+    align-items: center;
+    margin-bottom: 1%;
+}
+#leftIcon{
+width: 10%;
+color: white;
+}
+#menuLink{
+    width: 70%;
+}
+#menuLink a{
+    color: white;
+    text-decoration: none;
+}
+#rightIcon{
+    width: 10%;
+    color: white;
+}
+#steveDiv{
+margin-bottom: 7%;
+text-align: center;
+}
+
+#impWrapper{
+    background-color: white;
+    margin-top: 1%;
+    padding: 20px 0px;
+}
+#steveRem{
+    margin-top: 4%;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-bottom: 1%;
+    text-align: center;
+}
+#overDiv{
+    width: 100%;
+    padding: 0px 7%;
+}
+#steveLink{
+    text-align: center;
+}
+#steveLink a{
+    text-decoration: none;
+    color: blue;
+    margin-bottom: 8%;
+}
+#tributeDiv{
+    padding: 0px 5%;
+}
+.one{
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 2%;
+}
+.two{
+    font-size: 12px;
+    width: 30%;
+    text-align: justify;
+
+}
+.three{
+    font-size: 10px;
+    
+}
+#authorDiv{
+    text-align: center;
+    margin-top: 3%;
+}
+#steveJ{
+    font-size: 30px;
+    font-weight: bold;
+}
+#date{
+    font-size: 20px;
+    font-weight: 500;
+}
+.touch{
+    font-size: 20px;
+    font-weight: 500;
+}
